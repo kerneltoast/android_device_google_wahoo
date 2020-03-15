@@ -772,3 +772,12 @@ PRODUCT_COPY_FILES += \
 # Google Device
 PRODUCT_PACKAGES += \
     SystemUIGoogle
+
+# IMS/Telephony
+PRODUCT_PACKAGES += \
+    ims-ext-common \
+    ims_ext_common.xml \
+    telephony-ext 
+
+PRODUCT_BOOT_JARS += \
+    telephony-ext
