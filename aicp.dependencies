@@ -1,0 +1,10 @@
+[
+  {
+    "repository": "Eamo5/android_kernel_google_wahoo",
+    "target_path": "kernel/google/wahoo"
+  },
+  {
+    "repository": "Eamo5/proprietary_vendor_google",
+    "target_path": "vendor_google"
+  }
+]
